@@ -1,7 +1,7 @@
 <!-- GitHub links -->
 [block protocol]: https://github.com/blockprotocol/blockprotocol
 [hash]: https://github.com/hashintel/hash
-[github_banner]: https://github.com/blockprotocol#welcome-to-the-block-protocol-
+[github_banner]: #welcome-to-the-block-protocol-
 
 <!-- Social links -->
 [twitter]: https://twitter.com/blockprotocol
