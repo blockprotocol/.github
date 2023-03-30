@@ -19,7 +19,7 @@
 
 ### About the Block Protocol
 
-The [Block Protocol] (**Þ**) is an open standard and community for data-driven blocks, from the folks behind [HASH].
+The [Block Protocol] (**Þ**) is an open standard for the development and zero-knowledge interoperability of data-driven blocks, from [HASH].
 
 ### Learn more
 
