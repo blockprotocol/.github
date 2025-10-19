@@ -1,29 +1,36 @@
 <!-- GitHub links -->
 [block protocol]: https://github.com/blockprotocol/blockprotocol
 [hash]: https://github.com/hashintel/hash
-[github_banner]: #welcome-to-the-block-protocol-
 
 <!-- Social links -->
-[x]: https://x.com/blockprotocol
+[𝕏]: https://x.com/blockprotocol
 [linkedin]: https://www.linkedin.com/company/block-protocol
 [discord]: https://blockprotocol.org/discord?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
 
 <!-- Site links -->
-[blockprotocol]: https://blockprotocol.org/?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
 [hub]: https://blockprotocol.org/hub?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
 [specification]: https://blockprotcol.org/docs/spec?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
 
-### Welcome to the Block Protocol 👋
+<!-- Site links -->
+[hash.ai]: https://app.hash.ai/?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
+[hash.dev]: https://hash.dev/?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
+[petrinaut.org]: https://semtype.org/?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
+[semtype]: https://semtype.org/?utm_medium=organic&utm_source=github_readme_blockprotocol-profile_root
 
-[![github_banner](https://static.blockprotocol.com/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/f8b0bf95-88ea-47ea-cac2-49cb2851b700/github)][github_banner]
+## Block Protocol
 
-### About the Block Protocol
+The **Block Protocol** is an open standard for the development and zero-knowledge interoperability of modular user interface components (aka. _blocks_).
 
-The [Block Protocol] (**Þ**) is an open standard for the development and zero-knowledge interoperability of data-driven blocks, from [HASH].
+Based around the **[Semtype]** standard for universal, composable types, the Block Protocol was originally developed for use as part of the open-source **[HASH]** platform. As part of this it supports high-quality, bug-free user and AI-defined interfaces to be built atop semantic data.
 
 ### Learn more
 
 - Check out the [Block Protocol] monorepo here on GitHub
-- Browse the Block Protocol [Hub] and [specification] [![blockprotocol](https://static.blockprotocol.com/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/bfa9a3fc-9301-45d7-73e4-26e7feb62900/16x16icon)][blockprotocol]
-- Join the Block Protocol community on [Discord] [![discord](https://static.blockprotocol.com/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/66be8013-77b0-4d39-8766-fecea1931800/16x16icon)][discord]
-- Or follow us on [X] [![x](https://static.blockprotocol.com/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/8b960e80-562c-4b9a-da7c-837c44ad7200/16x16icon)][x] and [LinkedIn] [![linkedin](https://static.blockprotocol.com/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/e417965c-0ee9-4ae7-4d98-48810339dd00/16x16icon)][linkedin]
+- Browse the Block Protocol [Hub] and [specification]
+- Join the Block Protocol community on [Discord]
+
+### Around the web
+
+- Try out the hosted version of HASH at [hash.ai]
+- Browse our developer docs and resources at [hash.dev]
+- Follow HASH on [𝕏]
